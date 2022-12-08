@@ -9,7 +9,14 @@ santakd/santakd is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<hr>
+<br>
+<br>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/santakd/count.svg" />
 </p>
+
+<br>
+<br>

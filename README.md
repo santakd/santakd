@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor counter<br>
   <img src="https://profile-counter.glitch.me/santakd/count.svg" />
 </p>
 

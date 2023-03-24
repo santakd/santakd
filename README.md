@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santakd
-- 👀 I’m interested in performance, scalability, observability, design, security and resiliency
+- 👀 I’m interested in performance, scalability, observability, design, security, resiliency and engineering management
 - 🌱 I’m currently dabbling in Python and learning Go
 - 💞️ I’m looking to collaborate on tools development
 - 📫 How to reach me santakd [at] gmail.com

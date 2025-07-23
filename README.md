@@ -14,11 +14,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-
-<p align="center"> 
-  Visitor counter<br>
-  <img src="https://profile-counter.glitch.me/santakd/count.svg" />
-</p>
-
-<br>
-<br>

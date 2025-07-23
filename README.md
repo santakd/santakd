@@ -15,7 +15,7 @@
 ### 🌱 Currently Dabbing In:
 - 🐍 **Python** — automating ops, building tools, and scripting all the things.
 - 🦀 **Rust** — for when performance and memory safety must shake hands.
-
+  
 ---
 
 ### 💬 Engineering Vibes:
@@ -49,7 +49,7 @@
 
 ---
 
-> ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”* — @santak
+> ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”* — @santakd
 
 ---
 

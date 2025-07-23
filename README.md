@@ -47,7 +47,7 @@
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
 - Sometimes I write InfluxQL and PromQL just for fun. Don’t judge me. 😄
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
-  
+
 ---
 
 > ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”* — @santakd

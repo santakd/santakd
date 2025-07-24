@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm @santakd — Welcome to my corner of the internet! 🚀
 
-🧠 I'm a **builder of resilient systems**, a student of **clean architecture**, and a practitioner of **production-first engineering**. I thrive at the intersection of **performance**, **scalability**, and **observability**, and I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎
+🧠 I'm a **builder of resilient systems**, a life long student of **clean architecture**, and a practitioner of **production-first engineering**. I thrive at the intersection of **performance**, **scalability**, and **observability**, and I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎
 
 ---
 

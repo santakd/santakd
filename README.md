@@ -46,7 +46,7 @@
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
 - Sometimes I write InfluxQL and PromQL just for fun. Don’t judge me. 😄
-- LEGOs fascinate me, the more complex the set, the more fun they are.
+- LEGOs fascinate me, the more complex the set, the more fun they are. :tada:
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
 
 ---

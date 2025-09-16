@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Currently Dabbing In:
-- 🐍 **Python** — automating ops, building tools, and scripting all the things.
+- 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
 - 🦀 **Rust** — for when performance and memory safety must shake hands.
   
 ---

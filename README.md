@@ -51,6 +51,7 @@
 - I debug dreams at night — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
 - Scaling systems is my superpower; I turn monoliths into microservices faster than you can say "Kubernetes." 🚀
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
+  
   Who knew tiny engines could teach so much about speed?
 ---
 

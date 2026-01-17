@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm @santakd — Welcome to my corner of the internet! 🚀
 
 🧠 I'm a **builder of resilient systems**, a life long student of **clean architecture**, and a practitioner of **production-first engineering**. I thrive at the intersection of **performance**, **scalability**, and **observability**, and I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎
-
+ 
 ---
 
 ### 🛠️ What I Love Building:
@@ -15,6 +15,7 @@
 ### 🌱 Currently Dabbing In:
 - 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
 - 🦀 **Rust** — for when performance and memory safety must shake hands.
+  
   
 ---
 
@@ -33,7 +34,7 @@
 - 🛠️ Dev tools that help engineers **ship, monitor, and sleep better**.
 - 📈 Observability frameworks, alerting pipelines, and trace visualizers.
 - 🧰 Reliability tooling: chaos testing, synthetic checks, auto-remediation.
-
+  
 ---
 
 ### 📫 Let’s Talk!
@@ -46,7 +47,7 @@
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
 - Sometimes I write InfluxQL and PromQL just for fun. Don’t judge me. 😄
-- LEGOs fascinate me, the more complex the set, the more fun they are.
+- LEGOs fascinate me, the more complex the set, the more fun they are. 
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
 
 ---

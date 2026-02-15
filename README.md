@@ -1,6 +1,8 @@
 ## 👋 Hey there, I'm @santakd — Welcome to my corner of the internet! 🚀
 
-🧠 I'm a **builder of resilient systems**, a life long student of **clean architecture**, and a practitioner of **production-first engineering**. I thrive at the intersection of **performance**, **scalability**, and **observability**, and I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎
+🧠 I'm a **builder of resilient systems**, a life long student of **clean architecture**, and a practitioner of **production-first engineering**. 
+I thrive at the intersection of **performance**, **scalability**, and **observability**, and 
+I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎
  
 ---
 
@@ -46,10 +48,10 @@
 - I treat **latency budgets** like financial budgets — every millisecond counts.
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
-- Sometimes I write games in Python just for fun. Don’t judge me. 😄
-- LEGOs fascinate me, the more complex the set, the more fun they are. 
-- I debug dreams at night — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
-- Scaling systems is my superpower; I turn monoliths into microservices faster than you can say "Kubernetes." 🚀
+- Sometimes I write games in **Python just for fun.** Don’t judge me. 😄
+- **LEGOs fascinate me**, the more complex the set, the more fun they are. 
+- I **debug dreams at night** — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
+- **Scaling systems is my superpower;** I turn monoliths into microservices faster than you can say "Kubernetes." 🚀
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
   
   Who knew tiny engines could teach so much about speed?

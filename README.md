@@ -46,7 +46,7 @@
 - I treat **latency budgets** like financial budgets — every millisecond counts.
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
-- Sometimes I write InfluxQL and PromQL just for fun. Don’t judge me. 😄
+- Sometimes I write games in Python just for fun. Don’t judge me. 😄
 - LEGOs fascinate me, the more complex the set, the more fun they are. 
 - I debug dreams at night — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
 - Scaling systems is my superpower; I turn monoliths into microservices faster than you can say "Kubernetes." 🚀

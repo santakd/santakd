@@ -49,6 +49,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**
 - Sometimes I write games in **Python just for fun.** Don’t judge me. 😄
+- I tinker with **Arduino**, chasing that quiet thrill when the simplest sketch suddenly feels like magic. 
 - **LEGOs fascinate me**, the more complex the set, the more fun they are. 
 - I **debug dreams at night** — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
 - **Scaling systems is my superpower;** I turn monoliths into microservices faster than you can say "Kubernetes." 🚀

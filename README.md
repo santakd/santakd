@@ -14,7 +14,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 
 ---
 
-### 🌱 Currently Dabbing In:
+### 🌱 Currently Dabbling In:
 - 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
 - 🦀 **Rust** — for when performance and memory safety must shake hands.
   

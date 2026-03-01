@@ -52,7 +52,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 - I tinker with **Arduino**, chasing that quiet thrill when the simplest sketch suddenly feels like magic. 
 - **LEGOs fascinate me**, the more complex the set, the more fun they are. 
 - I **debug dreams at night** — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
-- **Scaling systems is my superpower;** I turn monoliths into microservices faster than you can say "Kubernetes." 🚀
+- Designing and scaling systems is my **superpower;** 🚀
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
   
   Who knew tiny engines could teach so much about speed?

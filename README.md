@@ -58,6 +58,10 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
   Who knew tiny engines could teach so much about speed?
 ---
 
+Github Stats 
+
+[![Github stats](https://github-readme-mwendwa.vercel.app/api?username=santakd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#)
+
 ### My Quotes:
 > ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”*
  

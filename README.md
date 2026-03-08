@@ -59,9 +59,9 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
   
 ---
 
-Github Stats 
+### My Github Stats 
 
-[![Github stats](https://github-readme-mwendwa.vercel.app/api?username=santakd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)](#)
+[![Github stats](https://github-readme-mwendwa.vercel.app/api?username=santakd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=light&title_color=00b3ff)](#)
 
 ---
 

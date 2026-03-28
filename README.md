@@ -62,7 +62,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 ### My Quotes:
 > ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”*
 
-> ⚡️ *“The quieter you become, the more you are able to hear. 🐉"*
+> ⚡️ *“The quieter you become, the more you are able to hear."* 🐉
 
 > ⚡️ *"Embrace stillness as power, foresight as a weapon, and resilience as a way of life."*
 

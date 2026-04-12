@@ -11,6 +11,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 - 🔍 **Observability toolchains** — metrics, traces, logs, and dashboards that make noise obvious and silence safe.
 - 🧱 **Scalable microservices** — designed for failure, built for scale.
 - 🔐 **Secure-by-default architectures** — where dev and prod play nice.
+- 🎮 **Puzzles and games** - so we work hard and play hard.
 
 ---
 

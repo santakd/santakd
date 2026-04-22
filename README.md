@@ -72,6 +72,3 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 
 🖖 Cheers and keep your services fast, observable, and boring in all the right ways.
 
-
-
-

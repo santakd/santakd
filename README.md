@@ -57,7 +57,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
   
   Who knew tiny engines could teach so much about speed?
-   
+
 ---
 
 ### Some of my fav quotes:
@@ -67,6 +67,10 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 
 > ⚡️ *"Embrace stillness as power, foresight as a weapon, and resilience as a way of life."*
 
+
+---
+
+### ☕ [Buy Me a Coffee](https://buymeacoffee.com/santakdl)
  
 ---
 

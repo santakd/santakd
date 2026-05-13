@@ -41,8 +41,6 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 
 ### 📫 Let’s Talk!
 📧 **santakd [at] gmail [dot] com**
-
-☕ **[Buy Me a Coffee](https://buymeacoffee.com/santakdl)**
  
 ---
 

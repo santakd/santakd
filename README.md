@@ -19,7 +19,6 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 - 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
 - 🦀 **Rust** — for when performance and memory safety must shake hands.
   
-  
 ---
 
 ### 💬 Engineering Vibes:
@@ -44,6 +43,9 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 📧 **santakd [at] gmail [dot] com**
 
 ☕ **[Buy Me a Coffee](https://buymeacoffee.com/santakdl)**
+
+![Buy Me a Coffee](https://github.com/santakd/santakd/blob/main/buymeacoffee.png)
+ 
 ---
 
 ### ✨ Fun Facts:
@@ -70,6 +72,5 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 
 
 ---
-
 
 🖖 Cheers and keep your services fast, observable, and boring in all the right ways.

@@ -43,8 +43,6 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
 📧 **santakd [at] gmail [dot] com**
 
 ☕ **[Buy Me a Coffee](https://buymeacoffee.com/santakdl)**
-
-![Buy Me a Coffee](https://github.com/santakd/santakd/blob/main/buymeacoffee.png)
  
 ---
 

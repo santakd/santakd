@@ -6,9 +6,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
    
 `Coming Soon on App Store for MacOS 💻`  
   
-Your Workspace Companion 🐶 - https://barshasantak.github.io/rover/  
-
-Curiosity Meets Productivity 🐱 - https://barshasantak.github.io/felix/  
+Desktop Companions for MacOS 🐶 🐱 [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
 
 
 ---

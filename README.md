@@ -4,11 +4,14 @@
 I thrive at the intersection of **performance**, **scalability**, and **observability**, and 
 I love crafting tools that make systems smarter, teams faster, and nights on-call quieter. 😎  
    
-`Coming Soon on App Store for MacOS 💻`  
+
   
-Desktop Companions for MacOS 🐶 🐱 [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
-
-
+Desktop Companions for MacOS 🐶 🐱 
+ 
+[https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+ 
+Now available on App Store for MacOS 💻
+ 
 ---
 
 ### 🛠️ What I Love Building:

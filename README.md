@@ -25,8 +25,9 @@ Now available on App Store for MacOS 💻
 
 ### 🌱 Currently Dabbling In:
 - 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
-- 🦀 **Rust** — for when performance and memory safety must shake hands.
-- 🐦‍⬛ **Swift** - for apps and utilities on MacOS
+- 🐦‍⬛ **Swift** - for developing native apps and utilities on MacOS.
+- 🦀 **Rust** — when performance and memory safety must shake hands.
+
   
 ---
 

@@ -6,8 +6,10 @@ I thrive at the intersection of performance, scalability, and observability.
 
 I love crafting tools that make systems smarter, teams faster, and nights on-call much quieter. 😎
    
-
+---
   
+### What's New
+
 Desktop Companions for MacOS 🐶 🐱 
  
 [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)

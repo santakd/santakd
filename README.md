@@ -68,7 +68,7 @@ Now available on App Store for MacOS 💻
 - I **debug dreams at night** — turning nightmares into seamless uptime, one log line at a time. 💤🛠️
 - Designing and scaling systems is my **superpower;** 🚀
 - I collect **Hot Wheels and Dinky cars** — because performance isn’t just for services, it's for die-cast too. 🏎️🔥
-  
+    
   Who knew tiny engines could teach so much about speed?
 
 ---

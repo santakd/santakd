@@ -8,7 +8,7 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
    
 ---
   
-### What's New
+### ✨ What's New
 
 Desktop Companions for MacOS 🐶 🐱 
  

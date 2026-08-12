@@ -42,6 +42,7 @@ Now available on App Store for MacOS 💻
 - 🧪 **Metrics predict the future.**
 - 🔥 **Traces tell the story.**
 - 🧯 **Incidents are the sharpest retros.**
+- 🛡️ **Assume failure. Design for recovery.**
 - 🤝 **Resilience is not a feature, it's a responsibility.**
 
 ---

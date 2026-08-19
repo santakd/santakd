@@ -59,7 +59,7 @@ Now available on App Store for MacOS 💻
  
 ---
 
-### ✨ Fun Facts:
+### 💡 Fun Facts:
 - I treat **latency budgets** like financial budgets — every millisecond counts.
 - My favorite metric unit is **requests per second per engineer per coffee** ☕
 - I believe in the philosophy: **“If you can’t measure it, you can’t trust it.”**

@@ -74,7 +74,7 @@ Now available on App Store for MacOS 💻
 
 ---
 
-### Some of my fav quotes:
+### 🦉 Some of my fav quotes:
 > ⚡️ *“Engineering excellence is not how fast we build, but how long what we build lasts in production.”*
 
 > ⚡️ *“The quieter you become, the more you are able to hear."* 🐉

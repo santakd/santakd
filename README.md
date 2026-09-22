@@ -23,7 +23,7 @@ Now available on App Store for MacOS 💻
 - 🔍 **Observability toolchains** — metrics, traces, logs, and dashboards that make noise obvious and silence safe.
 - 🧱 **Scalable microservices** — designed for failure, built for scale.
 - 🔐 **Secure-by-default architectures** — where dev and prod play nice.
-- 🎮 **Puzzles and games** — so that we work hard and play hard.
+- 🎮 **Utilities, puzzles and games** — so that we work hard and play hard.
 
 ---
 

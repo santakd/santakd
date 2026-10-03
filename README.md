@@ -22,11 +22,6 @@ Now available on App Store for MacOS 💻
  
 ---
 
-### 🌟 My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,dotnet,github,go,grafana,html,kali,linux,md,postgres,py,redis,rust,swift,visualstudio,vscode&perline=6)](https://skillicons.dev)
-
----
 ### 🛠️ What I Love Building:
 - ⚙️ **Blazing-fast backends** — built with a purpose, profiled with intent.
 - 🔍 **Observability toolchains** — metrics, traces, logs, and dashboards that make noise obvious and silence safe.
@@ -36,12 +31,17 @@ Now available on App Store for MacOS 💻
 
 ---
 
+### 🌟 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,dotnet,github,go,grafana,html,kali,linux,md,postgres,py,redis,rust,swift,visualstudio,vscode&perline=6)](https://skillicons.dev)
+
+---
+
 ### 🌱 Currently Dabbling In:
 - 🐍 **Python** — automating ops, building tools, APIs and scripting all the things.
 - 🐦‍⬛ **Swift** — for developing native apps and utilities on MacOS.
 - 🦀 **Rust** — when performance and memory safety must shake hands.
 
-  
 ---
 
 ### 💬 Engineering Vibes:
@@ -90,8 +90,8 @@ Now available on App Store for MacOS 💻
 
 > ⚡️ *"Embrace stillness as power, foresight as a weapon, and resilience as a way of life."*
 
-
 ---
+
 ### 🐍 My Contributions
 
 <picture>

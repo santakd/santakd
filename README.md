@@ -22,6 +22,11 @@ Now available on App Store for MacOS 💻
  
 ---
 
+### 🌟 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,dotnet,github,go,grafana,html,kali,linux,md,postgres,py,redis,rust,swift,visualstudio,vscode&perline=6)](https://skillicons.dev)
+
+---
 ### 🛠️ What I Love Building:
 - ⚙️ **Blazing-fast backends** — built with a purpose, profiled with intent.
 - 🔍 **Observability toolchains** — metrics, traces, logs, and dashboards that make noise obvious and silence safe.

@@ -8,17 +8,11 @@ I love crafting tools that make systems smarter, teams faster, and nights on-cal
    
 ---
   
-### ✨ What's New
-
-Desktop Companions for MacOS 🐶 🐱 
+### 🍎 Checkout these apps for Mac on App Store
  
-[https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+[https://barshasantak.github.io/macapps/](https://barshasantak.github.io/macapps/)
 
-F1-Gantry 🏎️ 🏎️
-
-[https://barshasantak.github.io/f1-gantry/](https://barshasantak.github.io/f1-gantry/)
- 
-Now available on App Store for MacOS 💻
+Crafted exclusively for MacOS 💻
  
 ---
 

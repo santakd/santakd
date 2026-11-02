@@ -4,10 +4,10 @@
 
 I thrive at the intersection of performance, scalability, and observability.
 
-I love crafting tools that make systems smarter, teams faster, and nights on-call much quieter. 😎
+I love designing and crafting tools that make systems smarter, teams faster, and nights on-call much quieter. 😎
    
 ---
-  
+   
 ### 🍎 Checkout these apps for Mac on App Store
  
 [https://barshasantak.github.io/macapps/](https://barshasantak.github.io/macapps/)

@@ -27,7 +27,7 @@ Crafted exclusively for MacOS 💻
 
 ### 🌟 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,dotnet,github,go,grafana,html,kali,linux,md,postgres,py,redis,rust,swift,visualstudio,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,aws,dotnet,github,go,grafana,html,kali,linux,md,postgres,py,rabbitmq,redis,rust,sqlite,swift,visualstudio,vscode,windows&perline=7)](https://skillicons.dev)
  
 ---
 
